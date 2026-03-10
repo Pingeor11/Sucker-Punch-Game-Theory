@@ -84,7 +84,7 @@ The turn on which the winning attack occurred is almost perfectly uniform:
 
 You can read the full write-up and maths derivations here:
 
-📄 **[Sucker Punch Game Theory Paper](Sucker_Punch_Kingambit.pdf)**
+📄 **[Sucker Punch Game Theory Paper](paper/Sucker_Punch_Kingambit.pdf)**
 
 ---
 
