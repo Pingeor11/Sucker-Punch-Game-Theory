@@ -12,7 +12,7 @@ So what is the **optimal strategy**?
 
 This project models the late–game interaction between **Gholdengo** and **Kingambit** as a **zero-sum stochastic game** and solves it using **dynamic programming and mixed-strategy equilibrium**.
 
-![Pokemon Battle]([https://upload.wikimedia.org/wikipedia/en/4/4c/Pokemon_Showdown.png](https://i.ytimg.com/vi/M2VI9FTzHQY/maxresdefault.jpg))
+![Pokemon Battle](https://i.ytimg.com/vi/M2VI9FTzHQY/maxresdefault.jpg)
 ---
 
 ## The Result
