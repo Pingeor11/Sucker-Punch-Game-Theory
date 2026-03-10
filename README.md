@@ -12,7 +12,7 @@ So what is the **optimal strategy**?
 
 This project models the late–game interaction between **Gholdengo** and **Kingambit** as a **zero-sum stochastic game** and solves it using **dynamic programming and mixed-strategy equilibrium**.
 
-![Pokemon Battle]([https://upload.wikimedia.org/wikipedia/en/4/4c/Pokemon_Showdown.png](https://i.ytimg.com/vi/M2VI9FTzHQY/maxresdefault.jpg)
+![Pokemon Battle]([https://upload.wikimedia.org/wikipedia/en/4/4c/Pokemon_Showdown.png](https://i.ytimg.com/vi/M2VI9FTzHQY/maxresdefault.jpg))
 ---
 
 ## The Result
@@ -47,15 +47,6 @@ Interestingly, under optimal play the player is **equally likely to win on any p
 
 ---
 
-## Visualizing the Game
-
-The expected payoff as a function of the mixed strategies `p` and `q`.
-
-![Payoff Surface](payoff_surface.png)
-
-The surface has a **saddle point**, which corresponds to the equilibrium mixed strategy.
-
----
 
 ## Simulation
 
@@ -91,7 +82,7 @@ The turn on which the winning attack occurred is almost perfectly uniform:
 
 ## Full Paper
 
-You can read the full write-up here:
+You can read the full write-up and maths derivations here:
 
 📄 **[Sucker Punch Game Theory Paper](Sucker_Punch_Kingambit.pdf)**
 
@@ -107,5 +98,5 @@ In real battles, players rarely play perfectly optimally. Some may overuse Sucke
 
 ## Why this project?
 
-Competitive games often hide elegant mathematical structures.  
+Outplaying Sucker Punch is the greatest way to win 🥇 
 This project shows how **game theory can explain strategy even in something as unexpected as Pokémon.**
